@@ -1,0 +1,31 @@
+{
+  "name": "blync",
+  "version": "1.0.0",
+  "description": "Blynclight module for Node.js using node-hid.",
+  "main": "lib/blync.js",
+  "dependencies": {
+    "node-hid": "~0.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/justmoon/node-blync.git"
+  },
+  "keywords": [
+    "blync",
+    "blynclight",
+    "rgb",
+    "led",
+    "hid",
+    "usb"
+  ],
+  "author": "Stefan Thomas <justmoon@members.fsf.org>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justmoon/node-blync/issues"
+  },
+  "homepage": "https://github.com/justmoon/node-blync"
+}
