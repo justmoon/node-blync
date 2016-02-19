@@ -4,7 +4,7 @@
   "description": "Blynclight module for Node.js using node-hid.",
   "main": "lib/blync.js",
   "dependencies": {
-    "node-hid": "~0.3.1"
+    "node-hid": "~0.5.1"
   },
   "devDependencies": {},
   "scripts": {
